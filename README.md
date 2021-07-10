@@ -13,7 +13,7 @@ https://download.slicer.org/ 에 접속 후 사용자 환경에 맞는 버전 �
 
 ## 목차   
 ### Chapter1: [3D 모델 데이터 조작](https://github.com/BevoLEt/3d_slicer_tutorial/blob/main/chapter1/3dmodeling_by_medical_data.md)   
-### Chapter2: [3D 모델 데이터 편집 및 추출](https://github.com/BevoLEt/3d_slicer_tutorial/tree/main/chpater2)
+### Chapter2: [3D 모델 데이터 편집 및 추출](https://github.com/BevoLEt/3d_slicer_tutorial/blob/main/chpater2/3dmodeling_by_medical_data2.md)
 
 
 ## 참조:   

@@ -11,7 +11,11 @@ Dicom 파일과 연동이 되는게 가장 큰 장점인듯?
 ## 설치방법   
 https://download.slicer.org/ 에 접속 후 사용자 환경에 맞는 버전 설치 (Windows, MacOS, Linux 지원가능)
 
+## 목차   
+### Chapter1: [3D 모델 데이터 조작](https://github.com/BevoLEt/3d_slicer_tutorial/tree/main/chapter1)   
+### Chapter2: [3D 모델 데이터 편집 및 추출](https://github.com/BevoLEt/3d_slicer_tutorial/tree/main/chpater2)
 
-참조:   
+
+## 참조:   
 https://github.com/Slicer/Slicer   
 https://slicer.readthedocs.io/en/latest/

@@ -12,3 +12,4 @@
 5. 그 후 원하는 Preset을 클릭 후 렌더링 된 3D 모델을 조각하면 된다.   
 <img src="/chapter1/ch1_6.png" width="70%" height="70%" title="" alt=""></img><br/>
 <img src="/chapter1/ch1_7.png" width="70%" height="70%" title="" alt=""></img><br/>
+chapter2에선 이 모델을 편집한 후 stl(3d뷰데이터)로 추출하는 작업을 해볼려 한다.
